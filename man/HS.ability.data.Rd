@@ -1,6 +1,5 @@
 \name{HS.ability.data}
 \alias{HS.ability.data}
-\alias{HS.fake.data}
 \docType{data}
 
 \title{
